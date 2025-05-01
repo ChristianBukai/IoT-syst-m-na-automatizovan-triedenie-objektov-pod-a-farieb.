@@ -23,6 +23,10 @@ Projekt je zverejnený pre akademické účely a môže byť voľne použitý na
 
 ---
 
+Tento repozitár slúži ako príloha k bakalárskej práci odovzdanej 2.5.2025. Po tomto dátume už nebude upravovaný.
+
+---
+
 **Autor:** Christián Bukai  
 **Škola:** Ekonomická univerzita v Bratislave, FHI  
 **Rok:** 2025
