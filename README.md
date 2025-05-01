@@ -1,6 +1,6 @@
 **IoT systém na automatizované triedenie objektov podľa farieb**
 
-Tento repozitár obsahuje zdrojové kódy k bakalárskej práci **"IoT systém na automatizované triedenie objektov podľa farieb"**, vypracovanej na **Ekonomickej univerzite v Bratislave**, Fakulta hospodárskej informatiky, 2025.
+Tento repozitár obsahuje zdrojové kódy a súbory 3D modelov k bakalárskej práci **"IoT systém na automatizované triedenie objektov podľa farieb"**, vypracovanej na **Ekonomickej univerzite v Bratislave**, Fakulta hospodárskej informatiky, 2025.
 
 Cieľ projektu
 
@@ -15,7 +15,7 @@ Navrhnúť a zrealizovať IoT systém, ktorý automaticky triedi farebné objekt
 - Logický konvertor 5V ↔ 3.3V
 - Aktívny bzučiak SFM-20B
 - Vlastné 3D tlačené časti
-- Webové rozhranie (HTML/CSS)
+- Webové rozhranie (HTML)
 
 ---
 
